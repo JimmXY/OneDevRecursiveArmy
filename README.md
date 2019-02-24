@@ -19,15 +19,18 @@ Rants and thoughts, to be honest, in what _may_ be interpreted as an organized m
 I'm Hari, a software engineer by profession.
 
 I was first introduced to a computer in middle school (1995 maybe); didn't stick much.
+
 I was first introduced to a programming language (BASIC) in middle school (1996 or 1997 maybe); didn't stick much.
+
 I was again introduced to a programming language (Java) in middle school (2000); didn't stick much.
 
 _Actually_, it convinced me that my true career lay in Biology. That scene ended quickly and I began Engineering. In Electrical and Electronics.
 
 And then, I was introduced to a software programmer at the wee end of high school (2005); he awed and inspired me. You can create things that help you do other totally useless things!
+
 And then, I was again introduced to the "world of programming" and (yet) another programming language (C) in my undergradudate (2006); this time it stuck. Not just superglue stuck; Fevicol life-long level stuck. And I think many things contributed to this "sticking"; one of the most important being my Introduction to C professor (?) - a man who displayed passion. Exuberantly. He brimed with the kind of knowledge that was bait for the curiosity and absolute lack of giving-a-fuck attitude that the first couple of years in undergraduate college generates.
 
-I was hooked. 
+I was hooked.
 
 I put in the effort too. But that was because I'd already been captivated by it's magicalness, and then baited and hooked by the knowledge.
 
